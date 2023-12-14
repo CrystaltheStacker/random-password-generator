@@ -14,10 +14,10 @@ As a junior developer, I was tasked with the creation of a random password gener
 crystaluncwebdev@gmail.com
 
 ## Screenshot of JS Code
-![Alt text](Random-Password-Generator-JS-code.png)
+![Alt text](Assets/Random-Password-Generator-JS-code.png)
 
 ## Video Demo of my Random Password Generator
-<video src="Random%20Password%20Generator%20Demo%20video.mp4" controls title="Title"></video>
+<video src="Assets/Random%20Password%20Generator%20Demo%20video.mp4" controls title="Title"></video>
 
 ## Acceptance Criteria 
 * When the user wants to generate a random password, they are presented with a set of chosen criteria prompts that result in a secure password.
