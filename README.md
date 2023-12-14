@@ -40,6 +40,11 @@ https://github.com/CrystaltheStacker/random-password-generator
 ## Contact
 crystaluncwebdev@gmail.com
 
+## Screenshot of JS Code
+![Alt text](Random-Password-Generator-JS-code.png)
+
+## Video Demo of my Random Password Generator
+<video src="Random%20Password%20Generator%20Demo%20video.mp4" controls title="Title"></video>
 
 MIT License
 

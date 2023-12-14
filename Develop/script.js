@@ -65,6 +65,4 @@ if (isNaN(characterLength) || characterLength < 8 || characterLength > 128) {
   }
 };
 
-
-
 generateBtn.addEventListener("click", writePassword);
